@@ -7,7 +7,6 @@
 - [OC_Foundation](https://github.com/luckyvondoit/OC_Foundation)
 - [OC_Program](https://github.com/luckyvondoit/OC_Program)
 - [iOSInterviewsAndDevNotes](https://github.com/luckyvondoit/iOSInterviewsAndDevNotes)
-- []
 
 ## Programming
 
